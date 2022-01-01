@@ -28,7 +28,7 @@ namespace OCR_BarcodeReader
             Bitmap oBitmap = new Bitmap(path);
             var results = reader.DecodeMultiple(oBitmap);
 
-            if (results.Length > 1)
+            if (results.Length >= 1)
             {
                 foreach (Result result in results)
                 {
