@@ -1,0 +1,14 @@
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\obj\Debug\OCR_BarcodeReader.csprojAssemblyReference.cache
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\obj\Debug\OCR_BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\OCR_BarcodeReader.exe.config
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\OCR_BarcodeReader.exe
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\OCR_BarcodeReader.pdb
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\System.Drawing.Common.dll
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\zxing.dll
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\zxing.presentation.dll
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\System.Drawing.Common.xml
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\zxing.xml
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\bin\Debug\zxing.presentation.xml
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\obj\Debug\OCR_BarcodeReader.csproj.CopyComplete
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\obj\Debug\OCR_BarcodeReader.exe
+C:\Users\JC\source\repos\OCR_BarcodeReader\OCR_BarcodeReader\obj\Debug\OCR_BarcodeReader.pdb
